@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anubhav2921/lelo/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/anubhav2921/lelo/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav2921/lelo/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anubhav2921/lelo/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anubhav2921/lelo/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
