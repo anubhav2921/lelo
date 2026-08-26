@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anubhav2921/lelo/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/anubhav2921/lelo/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/anubhav2921/lelo/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/anubhav2921/lelo/tree/master/0904-fruit-into-baskets) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhav2921/lelo/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/anubhav2921/lelo/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
