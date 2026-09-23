@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav2921/lelo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anubhav2921/lelo/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/anubhav2921/lelo/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav2921/lelo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anubhav2921/lelo/tree/master/0013-roman-to-integer) |
+| [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/anubhav2921/lelo/tree/master/0904-fruit-into-baskets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhav2921/lelo/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anubhav2921/lelo/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anubhav2921/lelo/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/anubhav2921/lelo/tree/master/0013-roman-to-integer) |
+| [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhav2921/lelo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anubhav2921/lelo/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/anubhav2921/lelo/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
