@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anubhav2921/lelo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/anubhav2921/lelo/tree/master/0904-fruit-into-baskets) |
+| [2325-decode-the-message](https://github.com/anubhav2921/lelo/tree/master/2325-decode-the-message) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhav2921/lelo/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anubhav2921/lelo/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2325-decode-the-message](https://github.com/anubhav2921/lelo/tree/master/2325-decode-the-message) |
 ## Math
 |  |
 | ------- |
