@@ -1,25 +1,29 @@
 class Solution {
-    public int longestPalindrome(String s) {
-        int length = 0;
+  public int longestPalindrome(String s) {
 
-        HashSet<Character> hset = new HashSet<Character>();
-        for(int idx = 0; idx <s.length(); idx++){
-            char character = s.charAt(idx);
+        HashMap<Character, Integer> map = new HashMap<>();
+        
+        int palindromeSize = 0;
 
-            if(hset.contains(character)){
-                length += 2;
-                hset.remove(character);
+        for(int i =0 ; i<s.length();i++){
 
-            }
-            else{
-                hset.add(character);
-
-            }
-
+//            s.charAt(i);
+            int keyCount = map.getOrDefault(s.charAt(i),0);
+            
+            map.put(s.charAt(i),++keyCount);
+           
+            if (keyCount%2 == 0) palindromeSize +=2;
+            
         }
-        if(hset.size() > 0){
-            length++;
+        
+       
+        for (int size : map.values()){
+            if (size%2==1){
+                palindromeSize++;
+                break;
+            }
         }
-        return length;
+
+        return palindromeSize;
     }
 }
