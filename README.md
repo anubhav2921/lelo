@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anubhav2921/lelo/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anubhav2921/lelo/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/anubhav2921/lelo/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav2921/lelo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/anubhav2921/lelo/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/anubhav2921/lelo/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav2921/lelo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhav2921/lelo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anubhav2921/lelo/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav2921/lelo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/anubhav2921/lelo/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/anubhav2921/lelo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
@@ -150,4 +152,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/anubhav2921/lelo/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1710-maximum-units-on-a-truck](https://github.com/anubhav2921/lelo/tree/master/1710-maximum-units-on-a-truck) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav2921/lelo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav2921/lelo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav2921/lelo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav2921/lelo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
