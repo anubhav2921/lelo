@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anubhav2921/lelo/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/anubhav2921/lelo/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhav2921/lelo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/anubhav2921/lelo/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/anubhav2921/lelo/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/anubhav2921/lelo/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anubhav2921/lelo/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anubhav2921/lelo/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anubhav2921/lelo/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anubhav2921/lelo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Manacher
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anubhav2921/lelo/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/anubhav2921/lelo/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/anubhav2921/lelo/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -175,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anubhav2921/lelo/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anubhav2921/lelo/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
