@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anubhav2921/lelo/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/anubhav2921/lelo/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anubhav2921/lelo/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/anubhav2921/lelo/tree/master/1768-merge-strings-alternately) |
 | [2325-decode-the-message](https://github.com/anubhav2921/lelo/tree/master/2325-decode-the-message) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anubhav2921/lelo/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/anubhav2921/lelo/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/anubhav2921/lelo/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anubhav2921/lelo/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -186,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anubhav2921/lelo/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anubhav2921/lelo/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anubhav2921/lelo/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/anubhav2921/lelo/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
