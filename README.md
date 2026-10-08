@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anubhav2921/lelo/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/anubhav2921/lelo/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/anubhav2921/lelo/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/anubhav2921/lelo/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/anubhav2921/lelo/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/anubhav2921/lelo/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/anubhav2921/lelo/tree/master/0904-fruit-into-baskets) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anubhav2921/lelo/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/anubhav2921/lelo/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/anubhav2921/lelo/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/anubhav2921/lelo/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/anubhav2921/lelo/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anubhav2921/lelo/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
