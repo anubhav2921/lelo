@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anubhav2921/lelo/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/anubhav2921/lelo/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/anubhav2921/lelo/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/anubhav2921/lelo/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anubhav2921/lelo/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/anubhav2921/lelo/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/anubhav2921/lelo/tree/master/0860-lemonade-change) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anubhav2921/lelo/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/anubhav2921/lelo/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/anubhav2921/lelo/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/anubhav2921/lelo/tree/master/0561-array-partition) |
 | [1710-maximum-units-on-a-truck](https://github.com/anubhav2921/lelo/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anubhav2921/lelo/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/anubhav2921/lelo/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/anubhav2921/lelo/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/anubhav2921/lelo/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anubhav2921/lelo/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/anubhav2921/lelo/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anubhav2921/lelo/tree/master/0860-lemonade-change) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/anubhav2921/lelo/tree/master/0301-remove-invalid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/anubhav2921/lelo/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
