@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anubhav2921/lelo/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/anubhav2921/lelo/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anubhav2921/lelo/tree/master/0189-rotate-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anubhav2921/lelo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/anubhav2921/lelo/tree/master/1710-maximum-units-on-a-truck) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anubhav2921/lelo/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anubhav2921/lelo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anubhav2921/lelo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anubhav2921/lelo/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
 |  |
