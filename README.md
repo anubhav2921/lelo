@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/anubhav2921/lelo/tree/master/1768-merge-strings-alternately) |
 | [2325-decode-the-message](https://github.com/anubhav2921/lelo/tree/master/2325-decode-the-message) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/anubhav2921/lelo/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
