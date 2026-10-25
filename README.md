@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/anubhav2921/lelo/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/anubhav2921/lelo/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/anubhav2921/lelo/tree/master/0904-fruit-into-baskets) |
+| [1254-number-of-closed-islands](https://github.com/anubhav2921/lelo/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhav2921/lelo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1710-maximum-units-on-a-truck](https://github.com/anubhav2921/lelo/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anubhav2921/lelo/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/anubhav2921/lelo/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/anubhav2921/lelo/tree/master/1254-number-of-closed-islands) |
 ## Counting Sort
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/anubhav2921/lelo/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhav2921/lelo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -309,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhav2921/lelo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anubhav2921/lelo/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anubhav2921/lelo/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
