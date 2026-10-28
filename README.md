@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/anubhav2921/lelo/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anubhav2921/lelo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav2921/lelo/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anubhav2921/lelo/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
