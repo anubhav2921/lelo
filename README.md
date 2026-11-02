@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anubhav2921/lelo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhav2921/lelo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/anubhav2921/lelo/tree/master/2409-count-days-spent-together) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anubhav2921/lelo/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anubhav2921/lelo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/anubhav2921/lelo/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anubhav2921/lelo/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anubhav2921/lelo/tree/master/0021-merge-two-sorted-lists) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anubhav2921/lelo/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anubhav2921/lelo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anubhav2921/lelo/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anubhav2921/lelo/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anubhav2921/lelo/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav2921/lelo/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anubhav2921/lelo/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anubhav2921/lelo/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
