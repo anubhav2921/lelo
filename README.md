@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anubhav2921/lelo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anubhav2921/lelo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anubhav2921/lelo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anubhav2921/lelo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anubhav2921/lelo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anubhav2921/lelo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anubhav2921/lelo/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anubhav2921/lelo/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/anubhav2921/lelo/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/anubhav2921/lelo/tree/master/0904-fruit-into-baskets) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anubhav2921/lelo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anubhav2921/lelo/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anubhav2921/lelo/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/anubhav2921/lelo/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anubhav2921/lelo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anubhav2921/lelo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anubhav2921/lelo/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhav2921/lelo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/anubhav2921/lelo/tree/master/2409-count-days-spent-together) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anubhav2921/lelo/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anubhav2921/lelo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anubhav2921/lelo/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anubhav2921/lelo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/anubhav2921/lelo/tree/master/3886-sum-of-sortable-integers) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anubhav2921/lelo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anubhav2921/lelo/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anubhav2921/lelo/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anubhav2921/lelo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/anubhav2921/lelo/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anubhav2921/lelo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anubhav2921/lelo/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/anubhav2921/lelo/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anubhav2921/lelo/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
