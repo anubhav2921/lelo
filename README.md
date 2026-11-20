@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anubhav2921/lelo/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/anubhav2921/lelo/tree/master/1768-merge-strings-alternately) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anubhav2921/lelo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/anubhav2921/lelo/tree/master/2325-decode-the-message) |
 | [2409-count-days-spent-together](https://github.com/anubhav2921/lelo/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/anubhav2921/lelo/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anubhav2921/lelo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anubhav2921/lelo/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
