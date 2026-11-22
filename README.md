@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anubhav2921/lelo/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anubhav2921/lelo/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/anubhav2921/lelo/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anubhav2921/lelo/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anubhav2921/lelo/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2325-decode-the-message](https://github.com/anubhav2921/lelo/tree/master/2325-decode-the-message) |
 | [2409-count-days-spent-together](https://github.com/anubhav2921/lelo/tree/master/2409-count-days-spent-together) |
