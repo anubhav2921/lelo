@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/anubhav2921/lelo/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/anubhav2921/lelo/tree/master/0596-classes-with-at-least-5-students) |
 | [1211-queries-quality-and-percentage](https://github.com/anubhav2921/lelo/tree/master/1211-queries-quality-and-percentage) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anubhav2921/lelo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Graph Theory
 |  |
 | ------- |
